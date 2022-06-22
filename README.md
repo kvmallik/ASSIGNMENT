@@ -218,7 +218,7 @@ margin-left: 70%;
 #h6{
 text-align: center;
  padding: 0px 20px 0px 20px;
-margin-left: 70%;
+margin-left: 30%;
 }
 }
 
