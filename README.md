@@ -201,7 +201,7 @@ body{
 text-align: right;
 border: 1px solid black;
  background-color: rgb(252, 251, 251);
- margin-left: 200px;
+ margin-left: 80px;
  padding: 5px 10px;
  width: fix-content;
  height: fit-content;
